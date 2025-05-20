@@ -3,5 +3,7 @@ GNN For Predicting Thermodynamic Stability of Hypothetical Structures and Featur
 
 This package provides the following functionalities:
 
-+ Item 1 Predict total energy of new crystal strtuctures using pre-trained models
-Train models with custom datasets
++ Predict the volume relaxed energy of hypothetical crystal structures using pre-trained models
++ Train models with custom datasets to predict volume relaxed energy
++ Scripts to calculate thermodynamic stability ( decomposition energy)
++ Script to calculate features for any regression model to analyze stability trends
